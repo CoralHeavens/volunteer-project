@@ -1,6 +1,6 @@
 import React from "react";
 
-const logo = 'Help Ulraine';
+const logo = 'Help Ukraine';
 const headerButtonText = 'Допомогти'
 
 const Header = () => {
