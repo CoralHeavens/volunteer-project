@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/volunteer-project/static/css/main.07d6b075.css",
-    "main.js": "/volunteer-project/static/js/main.308087b1.js",
+    "main.js": "/volunteer-project/static/js/main.9751749d.js",
     "static/media/ukraine_field.jpg": "/volunteer-project/static/media/ukraine_field.432344503198a5965572.jpg",
     "static/media/drone.png": "/volunteer-project/static/media/drone.d4c490fadec9a7d17ae4.png",
     "static/media/paypal.png": "/volunteer-project/static/media/paypal.758b777e4553cd01612c.png",
     "index.html": "/volunteer-project/index.html",
     "main.07d6b075.css.map": "/volunteer-project/static/css/main.07d6b075.css.map",
-    "main.308087b1.js.map": "/volunteer-project/static/js/main.308087b1.js.map"
+    "main.9751749d.js.map": "/volunteer-project/static/js/main.9751749d.js.map"
   },
   "entrypoints": [
     "static/css/main.07d6b075.css",
-    "static/js/main.308087b1.js"
+    "static/js/main.9751749d.js"
   ]
 }
