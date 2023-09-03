@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.07d6b075.css",
+    "main.js": "/static/js/main.97a1323e.js",
+    "static/media/ukraine_field.jpg": "/static/media/ukraine_field.432344503198a5965572.jpg",
+    "static/media/drone.png": "/static/media/drone.d4c490fadec9a7d17ae4.png",
+    "static/media/paypal.png": "/static/media/paypal.758b777e4553cd01612c.png",
+    "index.html": "/index.html",
+    "main.07d6b075.css.map": "/static/css/main.07d6b075.css.map",
+    "main.97a1323e.js.map": "/static/js/main.97a1323e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07d6b075.css",
+    "static/js/main.97a1323e.js"
+  ]
+}
