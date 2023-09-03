@@ -1,5 +1,6 @@
 {
-  "name": "paypal-landing",
+  "homepage": "volunteer-project",
+  "name": "volunteer-project",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
